@@ -7,4 +7,4 @@ categories: Recensione
 
 Fa schifo
 
-![Sayat Nova giovane](/assets/images/ColourOfPomegranates-11.jpg)
+<img src="/assets/images/ColourOfPomegranates-11.jpg" width="200" height="100">
