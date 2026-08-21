@@ -7,4 +7,6 @@ categories: Recensione
 
 Fa schifo
 
+cacca
+
 <img src="/assets/images/ColourOfPomegranates-11.jpg" width="200" height="100">
