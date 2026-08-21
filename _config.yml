@@ -33,7 +33,7 @@ github_username:  jekyll
 plugins:
   - jekyll-remote-theme
 
-remote_theme: Gaohaoyang/gaohaoyang.github.io.
+remote_theme: Gaohaoyang/gaohaoyang.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
