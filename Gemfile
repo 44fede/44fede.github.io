@@ -2,6 +2,11 @@
 
 source "https://rubygems.org"
 
+gem "jekyll", "~> 3.9"
+gem "github-pages", group: :jekyll_plugins
+
+gem "csv"
+
 gemspec
 
 gem "rake", "~> 13.0"
