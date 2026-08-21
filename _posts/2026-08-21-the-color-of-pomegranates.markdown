@@ -7,6 +7,6 @@ categories: Recensione
 
 Fa schifo
 
-cacca
+cacca culo
 
-<img src="/assets/images/ColourOfPomegranates-11.jpg" width="200" height="100">
+<img src="/assets/images/ColourOfPomegranates-11.jpg">
