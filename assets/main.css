@@ -1,5 +1,3 @@
-@import "minima";
-
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -17,7 +15,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
 
-  background-color: #ffce6d;
+  background-color: #ffce6d !important;
 }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
