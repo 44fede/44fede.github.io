@@ -15,11 +15,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
 
-  background-image: url('/assets/images/Tree_of_Death_Labels.jpg') !important;
-  background-attachment: fixed !important;
-  background-repeat: no-repeat !important;
-  background-position: center center !important;
-  background-size: 100% 100% !important;
+  background-color: #ffce6d !important;
 }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
