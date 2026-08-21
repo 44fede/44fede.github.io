@@ -7,4 +7,4 @@ categories: Recensione
 
 Fa schifo
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+![Sayat Nova giovane](/assets/images/ColourOfPomegranates-11.jpg)
