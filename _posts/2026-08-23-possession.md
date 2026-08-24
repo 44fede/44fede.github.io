@@ -1,21 +1,53 @@
 ---
 layout: post
 title: Possession (Zulawski, 1981)
-tags: horror
+tags: Zulawski 1981
 ---
 
 <img  src="/assets/images/possession2.jpg" 
       alt="Poster 1983 USA" 
       style="float: right; margin-left: 15px; width: 50%; max-width: 300px; height: auto !important; object-fit: contain;">
 
-<p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-Nemo enim ipsam **voluptatem quia voluptas** sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque *porro quisquam* est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+*Well, it's like those two sisters of<br>
+Faith and Chance.*
 
-<img  src="/assets/images/possession_s1.jpg"
-      alt="Scena 1"
-      style="float: left; margin-right: 15px; width: 45%; max-width: 300px; height: auto !important; object-fit: contain;">
-      
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+*My faith can't exclude chance<br>
+but my chance can explain faith.*
 
-cacca
+*My faith didn't allow me<br>
+to wait for chance*
+
+*and chance didn't give me<br>
+enough faith.*
+
+Andrzej Zulawski stava finendo le riprese di *On the Silver Globe*, quando viene costretto a interrompere e distruggere tutto dal ministero del cinema polacco. Si reca negli Stati Uniti e bevendo il bourbon più economico che potesse trovare, in preda a un senso di smarrimento e perdizione in due mesi scrive il copione di *Possession*. Riesce a ottenere anche la possibilità di realizzare il film nella zona occidentale più vicina possibile al blocco comunista, ovvero Berlino Ovest. 
       
+Sicuramente necessito di ulteriori visioni del film perchè molte cose non le ho capite, ma ho interpretato la perdizione di Anne come il riflesso di ciò che ha provato Zulawski dopo aver lasciato la Polonia. Sto riflettendo e continuerò a riflettere sulla questione della fede e del caso che non mi è ancora ben chiara, soprattutto quale sarebbe la traduzione esatta di "*chance*" in quella situazione. Però sicuramente il mostro (tutto italiano!) rappresenta la terza via:
+
+*But at the same time I know there's<br>
+a third possibility, you know,*
+
+*like cancer or madness, but cancer<br>
+and madness contort reality.*
+
+*The possibility I'm talking about<br>
+pierces reality.*
+
+Una via che quindi contorce la realtà, non davvero comprensibile all'uomo, che porta alla pazzia, alla perdita di sè stessi, come succede ai nostri personaggi. A un certo punto Mark dice, parlando con Heinrich, che per lui **Dio è una malattia**, un cancro. Questo secondo me spiega il motivo per cui, nonostante sembrasse l'unico personaggio caratterizzato da logica e raziocinio, sembra poi cambiare d'un tratto completamente modo di ragionare, seguendo ciecamente la moglie nella sua pazzia. Mark nell'appartamento di Margie ha visto Dio avere un rapporto sessuale con Anne.
+
+<img  src="/assets/images/possession_s2.jpg" 
+      alt="Poster 1983 USA" 
+      style="float: left; margin-right: 15px; width: 50%; max-width: 350px; height: auto !important; object-fit: contain;">
+
+<br>La recitazione è impeccabile. Isabelle Adjani ha una presenza molto forte e la sua recitazione raggiunge il culmine nella scena della stazione della metro. Vomitevole e stupenda.<br>
+Sam Neill non è da meno ho trovato incredibile il modo in cui è riuscito a interpretare perfettamente il cambio radicale del suo personaggi.
+
+<img  src="/assets/images/possession_s3.jpg" 
+      alt="Poster 1983 USA" 
+      style="float: right; margin-left: 15px; margin-top: 60px; width: 50%; max-width: 350px; height: auto !important; object-fit: contain;">
+
+<br><br>Un punto su cui voglio soffermarmi è **l'utilizzo della luce**. Nella maggior parte delle scene non ci sono ombre. La luce sembra quella di una sala operatoria, di una clinica ospedaliera, conferisce quel tono di finzione che ti fa mettere in dubbio la realtà. Quando le ombre appaiono sono statiche e imponenti, ricoprono muri e pavimenti, nascondono e mascherano, l'esatto opposto della luce asettica che illumina tutto quanto allo stesso tempo senza lasciar scampo. E le ombre si vedono principalmente nell'appartamento al primo piano di Sebastianstraße 87, avvolto dal mistero e dalla presenza della creatura sovrannaturale. Oltretutto, l'utilizzo della luce si trova anche in forte contrasto con il dinamismo delle riprese a mano libera.
+
+Questo film mi ha fatto sentire disturbato, ansioso e curioso allo stesso tempo.
+
+Prima recensione :P
