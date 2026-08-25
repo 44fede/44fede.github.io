@@ -8,17 +8,6 @@ tags: Zulawski 1981
       alt="Poster 1983 USA" 
       style="float: right; margin-left: 15px; width: 50%; max-width: 300px; height: auto !important; object-fit: contain;">
 
-*Well, it's like those two sisters of<br>
-Faith and Chance.*
-
-*My faith can't exclude chance<br>
-but my chance can explain faith.*
-
-*My faith didn't allow me<br>
-to wait for chance*
-
-*and chance didn't give me<br>
-enough faith.*
 
 Andrzej Zulawski stava finendo le riprese di *On the Silver Globe*, quando viene costretto a interrompere e distruggere tutto dal ministero del cinema polacco. Si reca negli Stati Uniti e bevendo il bourbon più economico che potesse trovare, in preda a un senso di smarrimento e perdizione in due mesi scrive il copione di *Possession*. Riesce a ottenere anche la possibilità di realizzare il film nella zona occidentale più vicina possibile al blocco comunista, ovvero Berlino Ovest. 
       
