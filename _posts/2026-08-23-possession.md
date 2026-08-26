@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Possession (Zulawski, 1981)
-tags: Zulawski 1981
+title: Possession (1981)
+tags: Zulawski 1981 Polonia
 ---
 
 <img  src="/assets/images/possession2.jpg" 
