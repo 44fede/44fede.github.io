@@ -31,9 +31,6 @@ Una via che quindi contorce la realtà, non davvero comprensibile all'uomo, che 
 <br>La recitazione è impeccabile. Isabelle Adjani ha una presenza molto forte e la sua recitazione raggiunge il culmine nella scena della stazione della metro. Vomitevole e stupenda.<br>
 Sam Neill non è da meno ho trovato incredibile il modo in cui è riuscito a interpretare perfettamente il cambio radicale del suo personaggi.
 
-<img  src="/assets/images/possession_s3.jpg" 
-      alt="Poster 1983 USA" 
-      style="float: right; margin-left: 15px; margin-top: 60px; width: 50%; max-width: 350px; height: auto !important; object-fit: contain;">
 
 <br><br>Un punto su cui voglio soffermarmi è **l'utilizzo della luce**. Nella maggior parte delle scene non ci sono ombre. La luce sembra quella di una sala operatoria, di una clinica ospedaliera, conferisce quel tono di finzione che ti fa mettere in dubbio la realtà. Quando le ombre appaiono sono statiche e imponenti, ricoprono muri e pavimenti, nascondono e mascherano, l'esatto opposto della luce asettica che illumina tutto quanto allo stesso tempo senza lasciar scampo. E le ombre si vedono principalmente nell'appartamento al primo piano di Sebastianstraße 87, avvolto dal mistero e dalla presenza della creatura sovrannaturale. Oltretutto, l'utilizzo della luce si trova anche in forte contrasto con il dinamismo delle riprese a mano libera.
 
