@@ -34,7 +34,7 @@ Sam Neill non è da meno.
 
 <br><br>Un punto su cui voglio soffermarmi è **l'utilizzo della luce**. Nella maggior parte delle scene non ci sono ombre. La luce sembra quella di una sala operatoria, di una clinica ospedaliera, conferisce quel tono di finzione che ti fa mettere in dubbio la realtà. Quando le ombre appaiono sono statiche e imponenti, ricoprono muri e pavimenti, nascondono e mascherano, l'esatto opposto della luce asettica che illumina tutto quanto allo stesso tempo senza lasciar scampo. E le ombre si vedono principalmente nell'appartamento al primo piano di Sebastianstraße 87, avvolto dal mistero e dalla presenza della creatura sovrannaturale. Oltretutto, l'utilizzo della luce si trova anche in forte contrasto con il dinamismo delle riprese a mano libera.
 
-Questo film mi ha fatto sentire disturbato, ansioso e curioso allo stesso tempo
+Questo film mi ha fatto sentire disturbato, ansioso e curioso allo stesso tempo.
 Sicuramente necessito di ulteriori visioni del film perchè molte cose non le ho capite :(
 
 Prima recensione :P
