@@ -9,9 +9,9 @@ tags: Zulawski 1981 Polonia
       style="float: right; margin-left: 15px; width: 50%; max-width: 300px; height: auto !important; object-fit: contain;">
 
 
-Andrzej Zulawski stava finendo le riprese di *On the Silver Globe*, quando viene costretto a interrompere e distruggere tutto dal ministero del cinema polacco. Si reca negli Stati Uniti e bevendo il bourbon più economico che potesse trovare, in preda a un senso di smarrimento e perdizione in due mesi scrive il copione di *Possession*. Riesce a ottenere anche la possibilità di realizzare il film nella zona occidentale più vicina possibile al blocco comunista, ovvero Berlino Ovest. 
+Andrzej Zulawski stava finendo le riprese di *On the Silver Globe*, quando viene costretto a interrompere e distruggere tutto dal ministero del cinema polacco. Si reca negli Stati Uniti e, in preda a un senso di smarrimento e perdizione in due mesi scrive il copione di *Possession*. Riesce a ottenere anche la possibilità di realizzare il film nella zona occidentale più vicina possibile al blocco comunista, ovvero Berlino Ovest. 
       
-Sicuramente necessito di ulteriori visioni del film perchè molte cose non le ho capite, ma ho interpretato la perdizione di Anne come il riflesso di ciò che ha provato Zulawski dopo aver lasciato la Polonia. Sto riflettendo e continuerò a riflettere sulla questione della fede e del caso che non mi è ancora ben chiara, soprattutto quale sarebbe la traduzione esatta di "*chance*" in quella situazione. Però sicuramente il mostro (tutto italiano!) rappresenta la terza via:
+Ho interpretato la perdizione di Anne come il riflesso di ciò che ha provato Zulawski dopo aver lasciato la Polonia. Sto riflettendo e continuerò a riflettere sulla questione della fede e del caso che non mi è ancora ben chiara, soprattutto quale sarebbe la traduzione esatta di "*chance*" in quella situazione. Però sicuramente il mostro (tutto italiano!) rappresenta la terza via:
 
 *But at the same time I know there's<br>
 a third possibility, you know,*
@@ -29,11 +29,12 @@ Una via che quindi contorce la realtà, non davvero comprensibile all'uomo, che 
       style="float: left; margin-right: 15px; width: 50%; max-width: 350px; height: auto !important; object-fit: contain;">
 
 <br>La recitazione è impeccabile. Isabelle Adjani ha una presenza molto forte e la sua recitazione raggiunge il culmine nella scena della stazione della metro. Vomitevole e stupenda.<br>
-Sam Neill non è da meno ho trovato incredibile il modo in cui è riuscito a interpretare perfettamente il cambio radicale del suo personaggi.
+Sam Neill non è da meno.
 
 
 <br><br>Un punto su cui voglio soffermarmi è **l'utilizzo della luce**. Nella maggior parte delle scene non ci sono ombre. La luce sembra quella di una sala operatoria, di una clinica ospedaliera, conferisce quel tono di finzione che ti fa mettere in dubbio la realtà. Quando le ombre appaiono sono statiche e imponenti, ricoprono muri e pavimenti, nascondono e mascherano, l'esatto opposto della luce asettica che illumina tutto quanto allo stesso tempo senza lasciar scampo. E le ombre si vedono principalmente nell'appartamento al primo piano di Sebastianstraße 87, avvolto dal mistero e dalla presenza della creatura sovrannaturale. Oltretutto, l'utilizzo della luce si trova anche in forte contrasto con il dinamismo delle riprese a mano libera.
 
-Questo film mi ha fatto sentire disturbato, ansioso e curioso allo stesso tempo.
+Questo film mi ha fatto sentire disturbato, ansioso e curioso allo stesso tempo
+Sicuramente necessito di ulteriori visioni del film perchè molte cose non le ho capite :(
 
 Prima recensione :P
