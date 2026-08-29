@@ -5,7 +5,7 @@ tags: Zulawski 1981 Polonia
 ---
 
 <img  src="/assets/images/possession2.jpg" 
-      alt="Poster 1983 USA" 
+      alt="Poster" 
       style="float: right; margin-left: 15px; width: 50%; max-width: 300px; height: auto !important; object-fit: contain;"> 
 
 Ho interpretato la perdizione di Anne come il riflesso di ciò che ha provato Zulawski dopo aver lasciato la Polonia. Sto riflettendo e continuerò a riflettere sulla questione della fede e del caso che non mi è ancora ben chiara, soprattutto quale sarebbe la traduzione esatta di "*chance*" in quella situazione. Però sicuramente il mostro (tutto italiano!) rappresenta la terza via:
