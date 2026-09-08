@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Half Nelson (2006)
-share: "true"
+share: true
 tags:
   - drugs
 ---
