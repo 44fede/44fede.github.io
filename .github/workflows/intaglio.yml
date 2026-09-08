@@ -1,14 +1,12 @@
-name: Obsidian to Jekyll (Intaglio)
+nname: Obsidian to Jekyll (Intaglio)
 
 on:
   push:
     branches:
-      - master  # Lasciamo master visto che il tuo repository usa questo branch
+      - master  # Cambia in main se il tuo branch principale si chiama main
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   convert-and-publish:
@@ -22,27 +20,16 @@ jobs:
 
       - name: Run Intaglio Conversion
         env:
-          VAULT_DIR: ./_notes    # <--- Questo dice a Intaglio dove sono le note!
+          VAULT_DIR: ./_notes
           JEKYLL_DIR: .
         run: |
-          uv tool install git+https://github.com/kckhchen/intaglio.git@v1
+          uv tool install git+https://github.com/kckhchen/intaglio@v1
           intaglio update
-
-
 
       - name: Commit and Push converted posts
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add _posts/
-          git diff-index --quiet HEAD || git commit -m "Auto-convert Obsidian notes to Jekyll posts"
-          git push
-
-      # Questo pezzo dice a GitHub Pages di aggiornare visivamente il sito web subito dopo
-      - name: Upload artifact for Pages
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+          git commit -a -m "Auto-update and convert Obsidian notes to Jekyll posts" || echo "No changes to commit"
+          git push origin master
