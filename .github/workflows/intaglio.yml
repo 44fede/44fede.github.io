@@ -22,7 +22,9 @@ jobs:
 
       - name: Run Intaglio Conversion
         run: |
-          uv tool install git+https://github.com/kckhchen/intaglio@v1 ./_notes
+          uv tool install git+https://github.com
+          intaglio ./_notes
+
 
       - name: Commit and Push converted posts
         run: |
