@@ -23,6 +23,7 @@ jobs:
       - name: Run Intaglio Conversion
         env:
           VAULT_DIR: ./_notes    # <--- Questo dice a Intaglio dove sono le note!
+          JEKYLL_DIR: .
         run: |
           uv tool install git+https://github.com/kckhchen/intaglio.git@v1
           intaglio run
