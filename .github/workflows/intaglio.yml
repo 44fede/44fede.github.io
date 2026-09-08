@@ -1,0 +1,29 @@
+name: Obsidian to Jekyll (Intaglio)
+
+on:
+  push:
+    branches:
+      - master  # Se il tuo branch si chiama 'master', cambia main in master
+
+jobs:
+  convert-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv (Python tool manager)
+        uses: astral-sh/setup-uv@v5
+
+      - name: Run Intaglio Conversion
+        run: |
+          uv tool install git+https://github.com
+          intaglio .
+
+      - name: Commit and Push converted posts
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add _posts/
+          git diff-index --quiet HEAD || git commit -m "Auto-convert Obsidian notes to Jekyll posts"
+          git push
