@@ -17,8 +17,7 @@ jobs:
 
       - name: Run Intaglio Conversion
         run: |
-          uv tool install git+https://github.com
-          intaglio .
+          uv tool install git+https://github.com/kckhchen/intaglio@v1 .
 
       - name: Commit and Push converted posts
         run: |
