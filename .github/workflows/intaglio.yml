@@ -26,8 +26,7 @@ jobs:
           JEKYLL_DIR: .
         run: |
           uv tool install git+https://github.com/kckhchen/intaglio.git@v1
-          intaglio clean
-          intaglio run
+          intaglio update
 
 
 
