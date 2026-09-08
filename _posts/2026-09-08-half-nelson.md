@@ -1,9 +1,6 @@
 ---
-generator: intaglio
 layout: post
-share: true
-tags:
-- drugs
+tags: drugs
 title: Half Nelson (2006)
 ---
 
