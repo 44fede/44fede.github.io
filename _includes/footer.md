@@ -1,2 +1,2 @@
-Recensioni di film e altre cose.
+Recensioni di tante cose.
 | [GitHub](https://github.com/44fede)
