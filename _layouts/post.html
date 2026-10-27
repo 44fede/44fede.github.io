@@ -9,7 +9,6 @@ layout: default
         <p class="post-info">
                 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
             {% for tag in page.tags %} | <a href="{% include relative %}/tags/#{{ tag | downcase }}">#{{ tag }}</a>{% endfor %}
-            {% include welcomments/comments.html website_id = "G4ARZWORNJ38aMVVKHvzWO8hg" %}
         </p>
     </div>
     {{ content }}
